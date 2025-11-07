@@ -45,21 +45,22 @@
 
 ### 🧩 Featured Projects
 
+#### ⚖️ LegalHelp — Legal Assistance Platform  
+> A full-stack web application designed to connect users with legal advisors and streamline legal case management.  
+> Built with **React.js**, **Spring Boot**, **MySQL**, and **Supabase for Authentication & AI features**.  
+> Integrated secure document upload, case tracking, and role-based dashboards for **Users** and **Lawyers**.  
+> Added smart case summarization using **AI-based NLP** for quick legal insights.  
+
+🔗 [View Repository](#) | 🏷️ *React | Spring Boot | Supabase | MySQL*
+
+---
+
 #### 🖼️ High-Accuracy Image Classification using TensorFlow  
 > Built a CNN-based image classification model to identify Indian cricketers with **97.88% accuracy**.  
 > Used **TensorFlow**, **Keras**, and **Data Augmentation** techniques for better generalization.  
 > 🧠 Trained on custom image datasets and evaluated on unseen test samples.  
 
 🔗 [View Repository](#) | 🏷️ *Python | TensorFlow | Deep Learning*
-
----
-
-#### 🧾 Document Management Web App  
-> Full-stack project where users can upload and share financial documents with CAs.  
-> Built with **React.js**, **Spring Boot**, **MySQL**, and **Supabase for Authentication & AI features**.  
-> Integrated secure file upload and role-based dashboards for **User** and **CA**.  
-
-🔗 [View Repository](#) | 🏷️ *React | Spring Boot | Supabase | MySQL*
 
 ---
 
