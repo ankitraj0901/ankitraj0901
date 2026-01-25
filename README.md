@@ -2,105 +2,110 @@
 <!--        HERO SECTION       -->
 <!-- ========================= -->
 
-<h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">Software Engineer | MCA @ PES University | Java & Cloud Enthusiast</h3>
+<!-- ================= HERO ================= -->
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+I'm+Ankit+👋;Software+Engineer+@+Accenture;Java+%7C+Spring+Boot+%7C+AWS;Building+Scalable+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/your-username?label=Stars&style=flat-square" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 MCA student at **PES University, Bangalore**
-- 💼 Software Engineer at **Accenture**
-- ☕ Strong in **Java, Spring Boot**
-- ☁️ Learning **AWS & Cloud-native development**
-- 🧠 Interested in **System Design, Backend & Scalable Applications**
-- 📈 Always improving **DSA & Problem Solving**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### ⚙️ Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-
----
-
-## 📌 Featured Projects
-
-### 🏛️ LegalHelp Platform
-> Full-stack legal assistance platform
-
-- ⚙️ Spring Boot Backend
-- ⚛️ React + Vite Frontend
-- 🤖 AI-powered chat support
-- ☁️ Deployed on Cloud (VPS)
-
-🔗 **Repo:** [LegalHelp](https://github.com/your-username/legalhelp)
-
----
-
-### 🧠 Face Recognition CNN Model
-> Deep learning project using TensorFlow
-
-- 🧪 Custom dataset (Indian cricketers)
-- 📊 High accuracy CNN model
-- 📈 Trained & evaluated on real images
-
-🔗 **Repo:** [Face Recognition CNN](https://github.com/your-username/face-recognition)
-
----
-
-## 📊 GitHub Stats
+## 👨‍💻 Who Am I
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="165"/>
+I build <b>scalable backend systems</b>, love <b>clean architecture</b>,  
+and enjoy working with <b>Java, Cloud & Modern Web Tech</b>.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
+🎓 MCA @ PES University &nbsp; • &nbsp; 💼 Accenture  
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🧰 Tech Toolbox
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,react,ts,tailwind,docker,postgres,mysql,git,linux" />
+</p>
+
+---
+
+## 🚀 Featured Work
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🏛️ LegalHelp  
+AI-powered legal assistance platform
+
+- Spring Boot backend  
+- React + Vite frontend  
+- Chat & automation features  
+
+🔗 [View Repository](https://github.com/your-username/legalhelp)
+
+</td>
+<td width="50%">
+
+### 🧠 Face Recognition CNN  
+Deep Learning project
+
+- TensorFlow CNN model  
+- Custom image dataset  
+- High accuracy results  
+
+🔗 [View Repository](https://github.com/your-username/face-recognition)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=transparent" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  <b>“Code is not just written, it is designed.”</b>
+</p>
+
 
 ---
 
