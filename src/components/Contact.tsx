@@ -5,20 +5,20 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "ankit.raj@example.com",
-      href: "mailto:ankit.raj@example.com",
+      value: "ankitraj9812@gmail.com",
+      href: "mailto:ankitraj9812@gmail.com",
     },
     {
       icon: Github,
       label: "GitHub",
-      value: "github.com/ankitraj",
-      href: "https://github.com",
+      value: "github.com/ankitraj0901",
+      href: "https://github.com/ankitraj0901",
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
-      value: "linkedin.com/in/ankitraj",
-      href: "https://linkedin.com",
+      value: "linkedin.com/in/ankitraj0901",
+      href: "https://linkedin.com/in/ankitraj0901",
     },
     {
       icon: MapPin,
