@@ -23,7 +23,7 @@ I strongly believe in **fundamentals, system design, and trade-offs**, not just 
 
 ---
 
-## 🚀 Projects I’m Proud Of
+
 
 ## 🚀 Flagship Project
 
