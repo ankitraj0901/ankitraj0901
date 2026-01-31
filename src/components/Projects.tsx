@@ -16,17 +16,19 @@ const projects = [
     techStack: [
       "React",
       "Tailwind CSS",
-      "Node.js",
+      "Java",
       "Spring Boot",
-      "MongoDB",
-      "Supabase",
-      "TalkJS",
-      "ML Models",
+      "MySQL",
+      "Python",
+      "Flask",
+      "Machine Learning",
     ],
     featured: true,
+    liveUrl: "https://legalhelp.dev",
+    githubUrl: "https://github.com/ankitraj0901",
   },
   {
-    title: "CNN Image Classifier",
+    title: "Face Recognition System",
     tagline: "Deep Learning for Image Recognition",
     description:
       "Built convolutional neural network models using TensorFlow for accurate image classification. Implemented data augmentation and transfer learning techniques for improved model performance.",
@@ -38,6 +40,7 @@ const projects = [
     ],
     techStack: ["TensorFlow", "Python", "Keras", "NumPy", "Matplotlib"],
     featured: false,
+    githubUrl: "https://github.com/ankitraj0901",
   },
   {
     title: "Financial Prediction Model",
@@ -52,6 +55,7 @@ const projects = [
     ],
     techStack: ["Python", "Scikit-learn", "Pandas", "TensorFlow"],
     featured: false,
+    githubUrl: "https://github.com/ankitraj0901",
   },
 ];
 
