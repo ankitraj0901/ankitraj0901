@@ -40,7 +40,7 @@ const Hero = () => {
           {/* Social Links */}
           <div className="flex items-center justify-center gap-4 mb-10 animate-fade-up delay-400">
             <a
-              href="https://github.com"
+              href="https://github.com/ankitraj0901"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-card rounded-xl shadow-card hover:shadow-elevated hover:-translate-y-1 transition-all duration-300 text-muted-foreground hover:text-foreground"
@@ -49,7 +49,7 @@ const Hero = () => {
               <Github size={22} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/ankitraj0901"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-card rounded-xl shadow-card hover:shadow-elevated hover:-translate-y-1 transition-all duration-300 text-muted-foreground hover:text-foreground"
@@ -58,7 +58,7 @@ const Hero = () => {
               <Linkedin size={22} />
             </a>
             <a
-              href="mailto:ankit@example.com"
+              href="mailto:ankitraj9812@gmail.com"
               className="p-3 bg-card rounded-xl shadow-card hover:shadow-elevated hover:-translate-y-1 transition-all duration-300 text-muted-foreground hover:text-foreground"
               aria-label="Email"
             >
